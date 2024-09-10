@@ -1,0 +1,9 @@
+- name: Projets
+  link: /projets/
+- name: Contacts
+  link: /contacts/
+# - name: Blog
+#   link: /blog/
+#   dropdown: 
+#     - name: Page 2
+#       link: /page-2/
